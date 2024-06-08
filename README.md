@@ -15,8 +15,8 @@ Welcome to the **File Organizer** project! This script helps you organize files 
 ### Clone the Repository
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/file-organizer.git
-cd file-organizer
+git clone https://github.com/avishkaJSPshehan/Desktop_Cleaner.git
+cd Desktop_Cleaner
 ```
 
 ## How to Use 📖
